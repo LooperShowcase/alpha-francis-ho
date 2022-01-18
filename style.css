@@ -1,0 +1,38 @@
+#table {
+  background-color: yellow;
+}
+body {
+  background-color: green;
+  font-family: "Playfair Display", serif;
+}
+#first {
+  background-color: red;
+}
+#second {
+  background-color: green;
+}
+#first2 {
+  background-color: orange;
+}
+#first3 {
+  background-color: rgb(68, 34, 180);
+}
+
+#information {
+  background-color: blue;
+}
+#aplle1 {
+  background-color: rgb(243, 39, 24);
+  font-family: "Anton", sans-serif;
+  font-family: "Playfair Display", serif;
+}
+
+li a:hover {
+  background-color: #111;
+}
+#shop_iphone13 {
+  background-color: maroon;
+}
+#price_iphone13 {
+  font-size: 7ch;
+}
